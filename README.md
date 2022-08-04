@@ -1,4 +1,4 @@
-# Data-Exploration-of-IPL-dataset-using-Pyspark
+# Data-Analysis-of-IPL-dataset-using-Pyspark
 
 In this project, we are going to analyse several different insights about IPL matches played between 2008-2020 using PySpark and SparkSQL.
 As this is a  really large dataset, Spark is really great choice because of its power for handling bigdata.
